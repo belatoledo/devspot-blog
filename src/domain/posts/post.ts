@@ -1,4 +1,3 @@
-// Define a estrutura de um objeto Post
 export type Post = {
   id: string;
   title: string;
