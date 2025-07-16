@@ -8,7 +8,7 @@ coverImage: '/images/welcome.jpg'
 
 ## Olá, Mundo (do Desenvolvimento)!
 
-Este é o corpo do seu post, escrito em **Markdown**. 
+Este é o corpo do seu post, escrito em **Markdown**.
 
 O Markdown nos permite focar no conteúdo, usando uma sintaxe simples para formatar o texto, como:
 
