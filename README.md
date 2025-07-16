@@ -1,6 +1,6 @@
 # DevSpot Blog
 
-Modelo de blog pessoal para artigos de tecnologia.  Construído com Next.js para estudar, revisar e aplicar as melhores práticas de código e arquitetura de software.
+Modelo de blog pessoal para artigos de tecnologia. Construído com Next.js para estudar, revisar e aplicar as melhores práticas de código e arquitetura de software.
 
 ## ✨ Tecnologias
 
